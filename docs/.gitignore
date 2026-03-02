@@ -1,0 +1,11 @@
+# VitePress 构建输出
+cache
+dist
+
+# 本地环境文件
+.env
+.env.local
+
+# IDE
+.vscode
+.idea
